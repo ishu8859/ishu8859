@@ -6,6 +6,8 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ishu8859&label=Profile%20views&color=0e75b6&style=flat" alt="ishu8859" /> </p>
 
+<p align="left"> <a href="https://twitter.com/kashyapishwar52" target="blank"><img src="https://img.shields.io/twitter/follow/kashyapishwar52?logo=twitter&style=for-the-badge" alt="kashyapishwar52" /></a> </p>
+
 - 🌱 I’m currently learning **Android App Development**
 
 - 📫 How to reach me **kashyapishwar52@gmail.com**
@@ -14,6 +16,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
+<a href="https://twitter.com/kashyapishwar52" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="kashyapishwar52" height="30" width="40" /></a>
 <a href="https://www.linkedin.com/in/ishu-kashyap-82a8a3258/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ishu kashyap" height="30" width="40" /></a>
 <a href="https://fb.com/kashyap ishwar rajput" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="kashyap ishwar rajput" height="30" width="40" /></a>
 <a href="https://instagram.com/itz_ishu_kashyap._" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="itz_ishu_.kashyap" height="30" width="40" /></a>
