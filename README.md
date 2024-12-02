@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Ishu</h1>
 <h3 align="center">A passionate Android App developer from India</h3>
 
-<img align="right" alt="coding" width="400" src="https://www.stealthtechnocrats.com/stealth_blogs/uploads/blogsdata/stealth.gif">
+<img align="right" alt="coding" width="400" src="https://miro.medium.com/v2/resize:fit:1400/1*yw0TnheAGN-LPneDaTlaxw.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ishu8859&label=Profile%20views&color=0e75b6&style=flat" alt="ishu8859" /> </p>
 
